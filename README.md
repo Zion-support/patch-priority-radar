@@ -15,6 +15,9 @@ Patch Priority Radar is a free, browser-based tool from the [Zion App Network](h
 - [Site Uptime Watchdog](https://ziontechgroup.com/site-uptime-watchdog/) — uptime and performance monitoring ([repo](https://github.com/Zion-support/site-uptime-watchdog))
 - [K8s Pod Security Scanner](https://ziontechgroup.com/k8s-pod-security-scanner/) — scan pods against Pod Security Standards ([repo](https://github.com/Zion-support/k8s-pod-security-scanner))
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [MSP & Partner Ecosystem](https://github.com/Zion-support/zion-network/blob/main/network/msp-partner-ecosystem.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ## Links
 - 🌐 Homepage: https://ziontechgroup.com/
 - 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
